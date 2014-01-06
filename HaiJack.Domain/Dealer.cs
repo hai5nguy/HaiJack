@@ -6,7 +6,6 @@ using System.Net.Mime;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using  System.Windows;
 //using HaiJack.Domain.ExtensionMethods;
 
 namespace HaiJack.Domain
