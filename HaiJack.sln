@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiJack", "HaiJack\HaiJack.csproj", "{D9C9443A-A3F0-4C83-B61C-787DAF36E07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiJack.UnitTest", "HaiJack.UnitTest\HaiJack.UnitTest.csproj", "{2012337D-0A51-4AAF-935E-607C836E61AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaiJack.Domain", "HaiJack.Domain\HaiJack.Domain.csproj", "{F96F2181-74D5-4992-9EF8-3D99FF56AEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C9443A-A3F0-4C83-B61C-787DAF36E07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C9443A-A3F0-4C83-B61C-787DAF36E07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C9443A-A3F0-4C83-B61C-787DAF36E07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C9443A-A3F0-4C83-B61C-787DAF36E07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2012337D-0A51-4AAF-935E-607C836E61AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2012337D-0A51-4AAF-935E-607C836E61AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2012337D-0A51-4AAF-935E-607C836E61AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2012337D-0A51-4AAF-935E-607C836E61AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96F2181-74D5-4992-9EF8-3D99FF56AEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96F2181-74D5-4992-9EF8-3D99FF56AEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96F2181-74D5-4992-9EF8-3D99FF56AEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96F2181-74D5-4992-9EF8-3D99FF56AEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
