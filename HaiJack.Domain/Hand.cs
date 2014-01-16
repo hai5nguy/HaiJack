@@ -7,7 +7,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
- //testsdfsdf
+ //testsdfsdf sdfsdfsddsfsdf
 namespace HaiJack.Domain
 {
     public class Hand : NotifyPropertyChangeBase
